@@ -27,6 +27,11 @@ article {
   margin-top: 40px;
 }
 
+a img {
+    width: 64px;
+    margin: 10px;
+}
+
 #style-header {
   background-color: #ffc5e5;
   position: absolute;
@@ -84,4 +89,18 @@ article {
 .produto-img-esquerda {
   width: 35%;
   float: left;
+}
+
+.rede{
+    text-align: center;
+    margin-top: 30px;
+}
+
+#footer{
+    background-color: #FFC5E5;
+    position: absolute;
+    width: 100%;
+    padding: 60px;
+    margin-top: 20px;
+    text-align: center;
 }
